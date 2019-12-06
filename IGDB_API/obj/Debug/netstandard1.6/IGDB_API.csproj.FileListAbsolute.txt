@@ -1,0 +1,8 @@
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_API\bin\Debug\netstandard1.6\IGDB_API.deps.json
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_API\bin\Debug\netstandard1.6\IGDB_API.dll
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_API\bin\Debug\netstandard1.6\IGDB_API.pdb
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_API\obj\Debug\netstandard1.6\IGDB_API.csprojAssemblyReference.cache
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_API\obj\Debug\netstandard1.6\IGDB_API.csproj.CoreCompileInputs.cache
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_API\obj\Debug\netstandard1.6\IGDB_API.AssemblyInfo.cs
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_API\obj\Debug\netstandard1.6\IGDB_API.dll
+C:\Users\bstri\source\repos\IGDB_Test\IGDB_API\obj\Debug\netstandard1.6\IGDB_API.pdb
